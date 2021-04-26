@@ -1,0 +1,195 @@
+Please enter the number of players(2 - 5): 
+3
+Enter player's name
+Jack
+Enter player's jetton
+50
+Enter player's name
+Rose
+Enter player's jetton
+100
+Enter player's name
+David 
+Enter player's jetton
+70
+******Turn begins******
+Rose is dealer in this round!
+
+Player's name: Jack
+Please enter this player's pot for this round: 3
+Player's name: David
+Please enter this player's pot for this round: 5
+******Player Jack's move******
+Player Jack's Hand:
+Card: 3
+Card: 4
+Jack, whether to double your bet?[Y/N]
+N
+No Blackjack, Hit or Stand?
+Press H to draw a card, press S to stand: H
+Player Jack's Hand:
+Card: 3
+Card: 4
+Card: 10
+No Blackjack, Hit or Stand?
+Press H to draw a card, press S to stand: H
+Player Jack's Hand:
+Card: 3
+Card: 4
+Card: 10
+Card: 10
+******Player David's move******
+Player David's Hand:
+Card: 7
+Card: 7
+David, whether to double your bet?[Y/N]
+N
+No Blackjack, Hit or Stand?
+Press H to draw a card, press S to stand: H
+Player David's Hand:
+Card: 7
+Card: 7
+Card: 10
+******Turn ends!******
+Dealer Hand:
+Card: 6
+Card: 2
+Dealer Hand:
+Card: 6
+Card: 2
+Card: 10
+******Check Win******
+Dealer Hand:
+Card: 6
+Card: 2
+Card: 10
+Player Jack's Hand:
+Card: 3
+Card: 4
+Card: 10
+Card: 10
+Player Jack busts, lose!
+Jack has 47 jettons now !
+Player David's Hand:
+Card: 7
+Card: 7
+Card: 10
+Player David busts, lose!
+David has 65 jettons now !
+Rose has 108 jettons now!
+******Turn begins******
+David is dealer in this round!
+
+Player's name: Jack
+Please enter this player's pot for this round: 3
+Player's name: Rose
+Please enter this player's pot for this round: 50
+******Player Jack's move******
+Player Jack's Hand:
+Card: 2
+Card: 3
+Jack, whether to double your bet?[Y/N]
+N
+No Blackjack, Hit or Stand?
+Press H to draw a card, press S to stand: H
+Player Jack's Hand:
+Card: 2
+Card: 3
+Card: 8
+No Blackjack, Hit or Stand?
+Press H to draw a card, press S to stand: H
+Player Jack's Hand:
+Card: 2
+Card: 3
+Card: 8
+Card: 1
+No Blackjack, Hit or Stand?
+Press H to draw a card, press S to stand: H
+Player Jack's Hand:
+Card: 2
+Card: 3
+Card: 8
+Card: 1
+Card: 8
+******Player Rose's move******
+Player Rose's Hand:
+Card: 2
+Card: 6
+Rose, whether to double your bet?[Y/N]
+Y
+******Turn ends!******
+Dealer Hand:
+Card: 5
+Card: 9
+Dealer Hand:
+Card: 5
+Card: 9
+Card: 5
+******Check Win******
+Dealer Hand:
+Card: 5
+Card: 9
+Card: 5
+Player Jack's Hand:
+Card: 2
+Card: 3
+Card: 8
+Card: 1
+Card: 8
+Player Jack busts, lose!
+Jack has 44 jettons now !
+Player Rose's Hand:
+Card: 2
+Card: 6
+Card: 3
+Lower sum! Player Rose lose!
+Rose has 8 jettons now !
+David has 168 jettons now!
+******Turn begins******
+Jack is dealer in this round!
+
+Player's name: Rose
+Please enter this player's pot for this round: 50
+Player's name: David
+Please enter this player's pot for this round: 50
+******Player Rose's move******
+Player Rose's Hand:
+Card: 1
+Card: 10
+Rose, whether to double your bet?[Y/N]
+Y
+******Player David's move******
+Player David's Hand:
+Card: 2
+Card: 10
+David, whether to double your bet?[Y/N]
+Y
+******Turn ends!******
+Dealer Hand:
+Card: 10
+Card: 6
+Dealer Hand:
+Card: 10
+Card: 6
+Card: 5
+******Check Win******
+Dealer Hand:
+Card: 10
+Card: 6
+Card: 5
+Player Rose's Hand:
+Card: 1
+Card: 10
+Card: 9
+Lower sum! Player Rose lose!
+Rose has -92 jettons now !
+Player David's Hand:
+Card: 2
+Card: 10
+Card: 10
+Player David busts, lose!
+David has 68 jettons now !
+Jack has 244 jettons now!
+Rose is kicked off!
+Jack is the final winner!
+Press any key to continue...
